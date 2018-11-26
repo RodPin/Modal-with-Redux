@@ -10,7 +10,3 @@ Possibilita chamar modais que ocupam tela cheia por dentro de componentes filhoe
 ### `What you need`
 
 npm install --save redux react-redux prop-types
-
-###  `Glitch`
-
-there's a glitch when the modal open that the screen goes a little bit down, I'm working on fix it
